@@ -32,8 +32,8 @@
             @endif
 
             <div class="max-w-7xl mx-auto p-6 lg:p-8">
-                <div class="flex justify-center">
-                <h1 style="color:red">21FTT1857</h1>
+                <div class="flex justify-center" color="red">
+                    <h1>21FTT1857</h1>
                 </div>
 
                 <div class="mt-16">
